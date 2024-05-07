@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Princeprasad22
-- 👀 I’m interested in coding,buliding websites,games etc.
-- 🌱 I’m currently learning web devlopment,android deplovment.
+- 👀 I’m interested in coding, website development,cyber security,games etc.
+- 🌱 I’m currently learning web devlopment,android deplovment,ethical hacking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
 - email me- pk13144300@gmail.com
